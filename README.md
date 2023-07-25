@@ -1,2 +1,11 @@
-# MyREADME
-Command-line application that creates a professional README.md for users.
+# README
+
+## Descrition
+A project to help users create their own README
+
+## Installation
+N/A
+
+## License
+N/A
+

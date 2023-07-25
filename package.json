@@ -9,6 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.2.8"
+    "inquirer": "^6.3.1"
   }
 }
